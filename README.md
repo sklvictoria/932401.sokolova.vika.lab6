@@ -16,13 +16,13 @@
         └── avatar.png
 ```
 
-Маршруты
+# Маршруты
 GET / — главная страница
 GET /about — о себе
 GET /api/time — JSON с временем (24h)
 GET /api/time?format=12 — JSON с временем (12h)
 
-PWA
+# PWA
 Манифест подключён (manifest.json)
 Service Worker кеширует статику (sw.js)
 Работает офлайн после первого визита
