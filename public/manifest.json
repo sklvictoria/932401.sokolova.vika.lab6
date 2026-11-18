@@ -1,0 +1,21 @@
+{
+  "name": "Страница путешественника",
+  "short_name": "Путешественник",
+  "description": "Интерактивная страница путешественника",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E6D2BE",
+  "theme_color": "#D35400",
+  "icons": [
+    {
+      "src": "/assets/avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
